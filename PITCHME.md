@@ -10,31 +10,31 @@
 # Aim of the project
 
 * Long term view is to work with variant data to predict trait(s distributions)
-* Make annotation better 
-* Use manual annotation data
+* Make annotation better (do we need an NN?) 
+* Structure detection
+ * edge detection
+ * convolutional networks
+ * Unsupervised learning?
+* Gene prediction
+ * supported by what data? 
+
 
 ---
 
-# hmhm
-
-![edge](assets/edge1.png)
-
-
----
-
-# hmhm
-
-![edge](assets/edge2.png)
-
----
-
-# hmhm
+# Analogue one: gene detection 
 
 ![edge](assets/handwritten.png)
 
 ---
 
-# hmhm
+# Analogue two: genes have variable sizes
 
 ![edge](assets/variability.png)
+
+---
+
+# Analogue three: edge detection
+
+![edge](assets/edge2.png)
+
 
