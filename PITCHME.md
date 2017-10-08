@@ -21,19 +21,19 @@
 
 ---
 
-# Analogue one: gene detection 
+# Step one detection 
 
 ![edge](assets/handwritten.png)
 
 ---
 
-# Analogue two: genes have variable sizes
+# Step two detection 2
 
 ![edge](assets/variability.png)
 
 ---
 
-# Analogue three: edge detection
+# Step three: edge detection
 
 ![edge](assets/edge2.png)
 
