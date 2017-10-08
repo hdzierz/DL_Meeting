@@ -21,6 +21,18 @@
 
 ---
 
+# Augustus Worked
+
+![worked](assets/gene_n.png)
+
+---
+
+# Bummer!
+
+![worked](assets/manual.png)
+
+---
+
 # Step one detection 
 
 ![edge](assets/handwritten.png)
@@ -29,11 +41,11 @@
 
 # Step two detection 2
 
-![edge](assets/variability.png)
+![edge](assets/varlity.png)
 
 ---
 
-# Step three: edge detection
+# Step three: edges
 
 ![edge](assets/edge2.png)
 
