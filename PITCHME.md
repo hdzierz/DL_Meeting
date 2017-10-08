@@ -20,3 +20,21 @@
 ![edge](assets/edge1.png)
 
 
+---
+
+# hmhm
+
+![edge](assets/edge2.png)
+
+---
+
+# hmhm
+
+![edge](assets/handwritten.png)
+
+---
+
+# hmhm
+
+![edge](assets/variability.png)
+
