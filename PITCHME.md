@@ -1,10 +1,9 @@
 # Background
 
 * Researchers complain about gene annotation
-* Manual annottaion project generated a long list of "correct" gene annotations
-* We want to bring neural networks to PFR vreeding
-* Ling term view is to produce models that can support breeding decision making
-* Long term view is to work with variant data to predict trait(s distributions)
+* Manual annotation project generated a long list of "correct" gene annotations
+* We want to bring neural networks to PFR breeding
+* Long term view is to produce models that can support breeding decision making
 * Make annotation better (do we need an NN?) 
 
 ---
