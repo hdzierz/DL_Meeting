@@ -1,3 +1,7 @@
+When humans created a computer with the ability to collect information and learn from it, they signed the death warrant of man kind. - sister becca the finite 
+
+---
+
 # Background
 
 * Researchers complain about gene annotation
