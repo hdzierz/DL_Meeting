@@ -36,7 +36,7 @@ When humans created a computer with the ability to collect information and learn
 * Proof of concept
  * Detect gene
  * Edge detection
-* Unspervised learning?
+* Unsupervised learning?
 
 ---
 
@@ -55,6 +55,10 @@ When humans created a computer with the ability to collect information and learn
 # Step three: edges
 
 ![edge](assets/edge2.png)
+
+---
+
+![variants](assets/variants.png.jpg)
 
 ---
 
