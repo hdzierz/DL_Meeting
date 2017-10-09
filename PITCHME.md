@@ -47,7 +47,7 @@
 
 # Step two detection 2
 
-![edge](assets/varlity.png)
+![edge](assets/variability.png)
 
 ---
 
