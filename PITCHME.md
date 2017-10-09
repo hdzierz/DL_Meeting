@@ -21,6 +21,12 @@
 
 ---
 
+# The Idea
+
+![ann](assets/neural_network.png) 
+
+---
+
 # Augustus Worked
 
 ![worked](assets/gene_n.png)
