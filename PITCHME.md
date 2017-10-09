@@ -52,4 +52,10 @@
 
 ![edge](assets/edge2.png)
 
+---
 
+# Communication
+
+* Journal Club
+* Zoom
+* Authorea
