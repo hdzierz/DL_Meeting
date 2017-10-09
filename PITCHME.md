@@ -23,7 +23,7 @@
 
 # The Idea
 
-![ann](assets/neural_network.svg) 
+![ann](assets/neural_network.png)
 
 ---
 
